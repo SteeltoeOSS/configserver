@@ -21,7 +21,6 @@ spring:
       server:
         git:
           uri: https://github.com/steeltoeoss/config-repo
-          basedir: target/config
 
 ---
 spring:
